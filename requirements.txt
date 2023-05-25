@@ -3,5 +3,5 @@ pandas
 seaborn
 streamlit
 matplotlib
-sklearn
-#-e .
+base64
+-e .
