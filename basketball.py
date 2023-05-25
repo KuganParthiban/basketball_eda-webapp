@@ -1,6 +1,6 @@
 import streamlit as st
 import pandas as pd
-import pybase64
+import pybase64 as base64
 import matplotlib.pyplot as plt
 import seaborn as sns 
 import numpy as np
